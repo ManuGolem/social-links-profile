@@ -21,10 +21,13 @@ Users should be able to:
 
 - Desktop :
 
+![Img desktop](/assets/images/Screenshot%202025-01-14%20at%2019-39-56%20Frontend%20Mentor%20Social%20links%20profile.png)
+
 - Mobile:
 
+![Img Mobile](/assets/images/Screenshot%202025-01-14%20at%2019-40-27%20Frontend%20Mentor%20Social%20links%20profile.png)
 ### Links
-- Live Site URL: [social-links-profile] ()
+- Live Site URL: [social-links-profile](https://manugolem.github.io/social-links-profile/)
 ## My process
 ### Built with
 - HTML5
