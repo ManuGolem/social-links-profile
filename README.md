@@ -35,5 +35,5 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 ## Author
-- Website - [Manuel Carreras](https://manuelcarreras.netlify.app/)
+- Website - [Manuel Carreras](https://portfolio-sepia-iota-35.vercel.app/)
 - Frontend Mentor - [@ManuGolem](https://www.frontendmentor.io/profile/ManuGolem)
